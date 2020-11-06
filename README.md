@@ -24,7 +24,6 @@
 * Using 3rd party libraries with CocoaPods.
 * Local notifications.
 
-# A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
      * With some
