@@ -41,12 +41,12 @@
 <br>
 
 ## Worklin
-[Worklin](https://softia.ro/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
+[Worklin](https://softia.ro/) is a cross-platform application for managing the complete range of a company's needs. It contains features as time-tracking, time-off and PTO requests, documents management and others. For HR and administrative employees, it also serves as a reporting tool and all is needed in terms of legal documents.
 
 ##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
 
 <p align="center">
-<img src="images/connect_plus.png" width="900" title="Connect Plus">
+<img src="images/worklin.png" width="900" title="Connect Plus">
 </p>
 
 <details>
