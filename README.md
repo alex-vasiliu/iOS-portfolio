@@ -26,7 +26,6 @@
 
 <details>
   <summary>Click to expand!</summary>
-  <br>
   * Alex
   * Vasiliu
 </details>
