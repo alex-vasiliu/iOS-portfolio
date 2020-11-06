@@ -12,7 +12,7 @@
 ## Connect Plus
 [Connect Plus](https://nepservices.com/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
 
-##### 🔨 Technologies Used: SwiftUI, Combine, MVVM, Bitrise, Notifications.
+##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
 
 <p align="center">
 <img src="images/connect_plus.png" width="900" title="Connect Plus">
@@ -21,10 +21,49 @@
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * MVC and MVVM design patterns.
-  * Coordinator pattern to control the navigation flow of the app.
-  * Parsing JSON from OpenWeatherAPI and transforming it to fit the required model, along with persisting the data.
-  * Keeping a clear separation of concerns between classes (API managers, model controllers and carving datasources away from view controllers).
-  * Using 3rd party libraries with CocoaPods.
-  * Local notifications.
+  * Fully written in Swift
+  * MVVM design pattern with Service-Oriented architecture
+  * SwiftFormat for code formatting
+  * Nuke for image loading and caching
+  * Phone number Login with SMS verification code
+  * Calendar for events
+  * Keychain to store user credentials and sensitive data
+  * Data sources independent from ViewControllers
+  * REST API alongside Postman, Insomnia, Docker and pgAdmin
+  * Local notifications and Push Notifications with Firebase
+  * MapKit and CoreLocation alongside Google Maps API for geotargeting, geocoding and reverse geocoding
+  * Realtime Messaging using Pusher
+  * Networking Layer using Alamofire
+  * UnitTest for algorithms and REST API  
+
+</details>
+<br>
+<br>
+
+## Worklin
+[Worklin](https://softia.ro/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
+
+##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
+
+<p align="center">
+<img src="images/connect_plus.png" width="900" title="Connect Plus">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * Fully written in Swift
+  * MVVM design pattern with Service-Oriented architecture
+  * SwiftFormat for code formatting
+  * Nuke for image loading and caching
+  * Calendar for events
+  * Keychain to store user credentials and sensitive data
+  * Data sources independent from ViewControllers
+  * REST API alongside Postman, Insomnia, Docker and pgAdmin
+  * Local notifications and Push Notifications with Firebase
+  * MapKit and CoreLocation alongside Google Maps API for geotargeting, geocoding and reverse geocoding
+  * Realtime Messaging using Pusher
+  * Networking Layer using Alamofire
+  * UnitTest for algorithms and REST API  
+
 </details>
