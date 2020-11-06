@@ -8,8 +8,8 @@
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
 
-## ConnectPlus
-[ConnectPlus](https://nepservices.com/) is a prototype weather app for flip flops lovers. You can add favourite locations, view the current weather and forecast in those locations, and get some support that it's 'flip flop weather' outside. You can also get notifications from your favourites, and view them on a map.
+## Connect Plus
+[Connect Plus](https://nepservices.com/) is a prototype weather app for flip flops lovers. You can add favourite locations, view the current weather and forecast in those locations, and get some support that it's 'flip flop weather' outside. You can also get notifications from your favourites, and view them on a map.
 
 I'm really happy with the models I wrote for this app: everything has a clear task, separate from other objects, and I've worked hard to pass updates around my app using delegates, protocols and notifications.
 
