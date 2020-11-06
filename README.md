@@ -12,8 +12,14 @@
 ## Connect Plus
 [Connect Plus](https://nepservices.com/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
 
-#####🔨 Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
-
 <p align="center">
 <img src="images/connect_plus.png" width="900" title="Connect Plus">
 </p>
+
+##### 🔨 Technologies: 
+* MVC and MVVM design patterns.
+* Coordinator pattern to control the navigation flow of the app.
+* Parsing JSON from OpenWeatherAPI and transforming it to fit the required model, along with persisting the data.
+* Keeping a clear separation of concerns between classes (API managers, model controllers and carving datasources away from view controllers).
+* Using 3rd party libraries with CocoaPods.
+* Local notifications.
