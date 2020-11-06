@@ -22,9 +22,18 @@
   <summary><b>More details about technologies used</b></summary>
   
   * MVC and MVVM design patterns.
-  * Coordinator pattern to control the navigation flow of the app.
-  * Parsing JSON from OpenWeatherAPI and transforming it to fit the required model, along with persisting the data.
-  * Keeping a clear separation of concerns between classes (API managers, model controllers and carving datasources away from view controllers).
-  * Using 3rd party libraries with CocoaPods.
-  * Local notifications.
+  * Fully written in Swift.
+  * MVVM design pattern with Service oriented architecture
+  * SwiftFormat for code formatting
+  * Nuke for image loading and caching
+  * Calendar for events
+  * Keychain to store user credentials and sensitive data
+  * Data sources independent from view controllers.
+  * REST API alongside Postman, Insomnia, Docker and pgAdmin
+  * Local notifications and Push Notifications with Firebase
+  * MapKit and CoreLocation alongside Google Maps API for geotargeting, geocoding and reverse geocoding
+  * Realtime Messaging using Pusher
+  * Networking Layer using Alamofire
+  * UnitTest for algorithms and REST API  
+
 </details>
