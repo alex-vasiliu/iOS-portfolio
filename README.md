@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alexandru Vasiliu - iOS Portfolio
+  Alexandru Vasiliu - iOS application Portfolio
 </h1>
 <br>
 
