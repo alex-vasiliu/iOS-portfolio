@@ -9,13 +9,13 @@
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
 
-## About me
+## Short info about me
 
-I'm Alex, a freelance iOS developer and technical consultant based in Bucharest. I have been programming since when I was 16, started my first job as a developer at 18 years old and at 23 graduated as an Engineer in Robotics, Automatic Control of Industrial Machines and Computer Science.
+I'm Alex, an iOS developer and technical consultant based in Bucharest. I have been programming since when I was 16, started my first job as a developer at 19 years old and at 23 graduated as an Engineer in Robotics, Automatic Control of Industrial Machines and Computer Science.
 
-I have a wealth of experience working with clients from all around the world. I offer my services to businesses of all sizes including start-ups, creative agencies, studios, designers, individuals and other freelancers & developers. The work I provide is of the highest quality, fully responsive, and tested in a wide range of devices. I take great care to ensure each project is well-architected, well-documented and easily maintainable so you can enhance an app as your company grows. I maintain a high code quality standard. Writing code that is documented and easy to read means it can be maintained and scaled in the future and allows co-workers to quickly work with it.
+I have a wealth of experience working with clients from all around the world. The work I provide is of the highest quality, fully responsive, and tested in a wide range of devices. I take great care to ensure each project is well-architected, well-documented and easily maintainable so you can enhance an app as your company grows. I maintain a high code quality standard. Writing code that is documented and easy to read means it can be maintained and scaled in the future and allows co-workers to quickly work with it.
 
-I've been developing natively in Swift for years. I believe that native apps give the best results and have the least problems when it comes to adopting new iOS features, iOS versions or when new devices are released. I also have direct experience with Apple's policies, device capabilities and account management procedures. App Review can be a little unpredictable at times and Apple's review guidelines change over time. I have a good understanding of what it takes to maintain apps over the long term. All the apps I developed from the very first one in 2013 support modern devices and are still available in the App Store. 
+I've been developing natively in Swift for years. I believe that native apps give the best results and have the least problems when it comes to adopting new iOS features, iOS versions or when new devices are released. I also have direct experience with Apple's policies, device capabilities and account management procedures alongside with a good understanding of what it takes to maintain apps over the long term. 
 
 - [Software](#connect-plus)
     - [Connect Plus](#connect-plus)
