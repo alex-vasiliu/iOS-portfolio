@@ -143,7 +143,8 @@ My latest projects
   * Store, Download files from cloud services like Dropbox, iCloud, Google Drive
   * Develop an internal Download library with Torrent-like behaviour
   * Localization based on device language
-
+  * Custom Views
+  
 </details>
 <br>
 <br>
@@ -185,7 +186,8 @@ My latest projects
   <summary><b>More details about technologies used</b></summary>
   
   * Interrogate, Update database with SQLite
-
+  * Custom Views
+  
 </details>
 <br>
 <br>
