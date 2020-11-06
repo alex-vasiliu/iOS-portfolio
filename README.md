@@ -26,7 +26,7 @@ My latest projects
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
-    - [AllDelicious & SoDelicious](#all-delicious-so-delicious)
+    - [AllDelicious & SoDelicious](#all-delicious)
 - Games
     - [Command-line tool](#command-line-tool)
     - [Xcode source editor extension](#xcode-source-editor-extension)
@@ -128,7 +128,7 @@ My latest projects
 <br>
 
 ## AllDelicious & SoDelicious
-[AllDelicious](https://apps.apple.com/us/app/alldelicious-new-food-recipes-shopping-list/id1109702043) & [SoDelicious](https://apps.apple.com/us/app/sodelicious-quick-delicious-cooking-recipes-for-food/id1109702047) is your new cooking coach! Over 4000 Tasty recipes now at your fingertips; an innovative Step-By-Step instruction mode; a ‘My Recipes’ page which serves as your very own mobile cookbook, and an incredible Search tool that allows you to filter by any ingredients, cuisine and social occasion you’re in the mood for Save your favorite recipes for quick access anywhere and create, organize and share recipe collections to make finding favorite recipes a snap.
+[AllDelicious](https://apps.apple.com/us/app/alldelicious-new-food-recipes-shopping-list/id1109702043) & [SoDelicious](https://apps.apple.com/us/app/sodelicious-quick-delicious-cooking-recipes-for-food/id1109702047) is your new cooking coach! With over 4000 Tasty recipes now at your fingertips, an innovative Step-By-Step instruction mode, a ‘Favourite Recipes’ page which serves as your very own mobile cookbook, and an incredible Search tool that allows you to filter by any ingredients, cuisine and social occasion you’re in the mood for. You can also create, organize and share you recipe collection to make finding favorite recipes a snap.
 
 
 ##### 🔨 Technologies Used: Swift, REST API, ApplePay, Analytics, Biometrics
