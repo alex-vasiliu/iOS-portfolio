@@ -171,10 +171,11 @@ My latest projects
 <br>
 
 ## Adblock & Parental Control
-[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) details here.
+[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) is the perfect application if you no longer want to see ads. AdBlock is the completely free and has over 50 million users across all browsers. With an easy setup and an ad blocking test function, you will save battery life by only loading the content you care about. It blocks all ads including YouTube.com video ads, Facebook, and everywhere else. Its blazing-fast, has automagical updates and an optimized block lists from our own, dedicated server.
 
 
-##### 🔨 Technologies Used: Objective-C, etc
+
+##### 🔨 Technologies Used: Objective-C, SQLite
 
 <p align="center">
 <img src="images/adblock.png" width="900" title="Adblock">
@@ -183,7 +184,7 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * etc
+  * Interrogate, Update database with SQLite
 
 </details>
 <br>
