@@ -178,7 +178,7 @@ My latest projects
 ##### 🔨 Technologies Used: Objective-C, SQLite
 
 <p align="center">
-<img src="images/adblock.png" width="900" title="Adblock">
+<img src="images/adblocker.png" width="900" title="Adblock">
 </p>
 
 <details>
