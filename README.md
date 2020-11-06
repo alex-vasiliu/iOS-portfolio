@@ -1,6 +1,7 @@
 <h1 align="center">
   Alexandru Vasiliu - iOS Portfolio
 </h1>
+<br>
 
 <p align="center">
     <a href="mailto:alexg.vasiliu@gmail.com">Email Me</a>  · 
