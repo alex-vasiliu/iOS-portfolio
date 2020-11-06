@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alexandru Vasiliu - iOS application Portfolio
+  Alexandru Vasiliu - iOS Portfolio
 </h1>
 <br>
 
@@ -8,6 +8,28 @@
     <a href="https://github.com/ab492/iOS-Portfolio/blob/master/Andy%20Brown%20-%20iOS%20Developer%20-%20July%202019.pdf">Download CV</a>  ·
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
+
+Applications
+-----------------
+
+- [Software](#how-do-i-install-it)
+    - [Command-line tool](#command-line-tool)
+    - [Xcode source editor extension](#xcode-source-editor-extension)
+    - [Xcode build phase](#xcode-build-phase)
+    - [Via Applescript](#via-applescript)
+    - [VSCode plugin](#vscode-plugin)
+    - [Sublime Text plugin](#sublime-text-plugin)
+    - [Git pre-commit hook](#git-pre-commit-hook)
+    - [On CI using Danger](#on-ci-using-danger)
+- [Games](#how-do-i-install-it)
+    - [Command-line tool](#command-line-tool)
+    - [Xcode source editor extension](#xcode-source-editor-extension)
+    - [Xcode build phase](#xcode-build-phase)
+    - [Via Applescript](#via-applescript)
+    - [VSCode plugin](#vscode-plugin)
+    - [Sublime Text plugin](#sublime-text-plugin)
+    - [Git pre-commit hook](#git-pre-commit-hook)
+    - [On CI using Danger](#on-ci-using-danger)
 
 ## Connect Plus
 [Connect Plus](https://nepservices.com/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
