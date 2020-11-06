@@ -21,6 +21,7 @@
 <details>
   <summary><b>More details about technologies used</b></summary>
   
+  <br>
   * MVC and MVVM design patterns.
   * Coordinator pattern to control the navigation flow of the app.
   * Parsing JSON from OpenWeatherAPI and transforming it to fit the required model, along with persisting the data.
