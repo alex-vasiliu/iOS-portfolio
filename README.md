@@ -25,7 +25,10 @@
 * Local notifications.
 
 <details>
-  <summary>Click to expand!</summary>
-  * With some
-  * Sub bullets
-</details>
+  <summary>More details about technologies</summary>
+   ```javascript
+    function whatIsLove() {
+      console.log('Baby Don't hurt me. Don't hurt me');
+      return 'No more';
+    }
+  ```</details>
