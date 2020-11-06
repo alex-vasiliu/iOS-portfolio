@@ -73,7 +73,7 @@
 [GameForm](https://apps.apple.com/us/app/gameform-play-games-for-money/id1439757695) is a new gaming platform that allows you to play games for cash! Its aim is to become the Netflix style destination where you can play simple games for cash prizes and win money online. The model is simple: select a game from the lobby, pay the entry fee and play for the high score. All games are skill-based which means users can get better the more they play. Through features like Bonus Bar and Refer a Friend, you get access to more rewards on a daily and weekly basis.
 
 
-##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
+##### 🔨 Technologies Used: Swift, REST API, ApplePay, Analytics, Biometrics
 
 <p align="center">
 <img src="images/gameform.png" width="900" title="Connect Plus">
@@ -82,20 +82,15 @@
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * Fully written in Swift
-  * MVVM design pattern with Service-Oriented architecture
   * SwiftFormat for code formatting
-  * Nuke for image loading and caching
-  * Phone number Login with SMS verification code
-  * Calendar for events
-  * Keychain to store user credentials and sensitive data
-  * Data sources independent from ViewControllers
-  * REST API alongside Postman, Insomnia, Docker and pgAdmin
-  * Local notifications and Push Notifications with Firebase
-  * MapKit and CoreLocation alongside Google Maps API for geotargeting, geocoding and reverse geocoding
-  * Realtime Messaging using Pusher
-  * Networking Layer using Alamofire
-  * UnitTest for algorithms and REST API  
+  * Apple, Google and Phone number Login with SMS verification code
+  * REST API alongside Postman
+  * Local notifications and Push Notifications
+  * Fund account with Credit Card or Apple Pay
+  * Track user activity with Analytics
+  * Deep Linking using Branch.io
+  * biometric authentication with Face and Touch ID
+  * Share and invite with message or email
 
 </details>
 <br>
