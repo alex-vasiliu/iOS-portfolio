@@ -16,5 +16,5 @@
 
 <br>
 <p align="center">
-<img src="images/connect_plus.jpg" width="900" title="Connect Plus">
+<img src="images/connect_plus.png" width="900" title="Connect Plus">
 </p>
