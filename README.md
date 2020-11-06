@@ -22,11 +22,11 @@ I've been developing natively in Swift for years. I believe that native apps giv
 My latest projects
 <br><br>
 
-- [Software](#connect-plus)
+- Software
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
-- [Games](#games)
+- Games
     - [Command-line tool](#command-line-tool)
     - [Xcode source editor extension](#xcode-source-editor-extension)
     - [Xcode build phase](#xcode-build-phase)
