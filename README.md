@@ -12,11 +12,11 @@
 Applications
 -----------------
 
-- [Software]
+- Software
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
-- [Games]
+- Games
     - [Command-line tool](#command-line-tool)
     - [Xcode source editor extension](#xcode-source-editor-extension)
     - [Xcode build phase](#xcode-build-phase)
