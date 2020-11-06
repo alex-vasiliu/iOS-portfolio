@@ -82,6 +82,7 @@
 <details>
   <summary><b>More details about technologies used</b></summary>
   
+  * MVC with Decorator design patern
   * SwiftFormat for code formatting
   * Apple, Google and Phone number Login with SMS verification code
   * REST API alongside Postman
