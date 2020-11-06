@@ -8,10 +8,10 @@
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
 
-## Buoywatch
-[Buoywatch](https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525) is an iOS & Apple Watch app made using **SwiftUI** and **Combine** as I've been playing around with the latest Apple frameworks since day one after the WWDC.
-It allows you to get real-time marine buoys data and get aware when the surf is good at a glance.
-Too often swell arrives later than predicted, by checking the buoy data you can determine if the swell has arrived. If not, you can go back to bed =)
+## ConnectPlus
+[ConnectPlus](https://nepservices.com/) is a prototype weather app for flip flops lovers. You can add favourite locations, view the current weather and forecast in those locations, and get some support that it's 'flip flop weather' outside. You can also get notifications from your favourites, and view them on a map.
+
+I'm really happy with the models I wrote for this app: everything has a clear task, separate from other objects, and I've worked hard to pass updates around my app using delegates, protocols and notifications.
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS
