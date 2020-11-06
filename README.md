@@ -18,9 +18,8 @@
 <img src="images/connect_plus.png" width="900" title="Connect Plus">
 </p>
 
-
 <details>
-  <summary><b>More details about technologies used 🔨 </b></summary>
+  <summary><b>More details about technologies used</b></summary>
   
   * MVC and MVVM design patterns.
   * Coordinator pattern to control the navigation flow of the app.
