@@ -28,6 +28,7 @@ My latest projects
     - [GameForm](#gameform)
     - [Tubidy](#tubidy)
     - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
+    - [Adblock & Parental Control](#adblock--parental-control)
 - Games
     - [Command-line tool](#command-line-tool)
     - [Xcode source editor extension](#xcode-source-editor-extension)
@@ -76,7 +77,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, Alamofire, UnitTest
 
 <p align="center">
-<img src="images/worklin.png" width="900" title="Connect Plus">
+<img src="images/worklin.png" width="900" title="Worklin">
 </p>
 
 <details>
@@ -105,7 +106,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, REST API, ApplePay, Analytics, Biometrics
 
 <p align="center">
-<img src="images/gameform.png" width="900" title="Connect Plus">
+<img src="images/gameform.png" width="900" title="GameForm">
 </p>
 
 <details>
@@ -133,7 +134,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, Cloud, Download, Localization
 
 <p align="center">
-<img src="images/tubidy.png" width="900" title="Connect Plus">
+<img src="images/tubidy.png" width="900" title="Tubidy">
 </p>
 
 <details>
@@ -154,7 +155,7 @@ My latest projects
 ##### 🔨 Technologies Used: Objective-C, AFNetworking, Ads, SQLite
 
 <p align="center">
-<img src="images/delicious.png" width="900" title="Connect Plus">
+<img src="images/delicious.png" width="900" title="Delicious">
 </p>
 
 <details>
@@ -169,5 +170,21 @@ My latest projects
 <br>
 <br>
 
+## Adblock & Parental Control
+[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) details here.
 
-Adblock & Parental Control Pro
+
+##### 🔨 Technologies Used: Objective-C, etc
+
+<p align="center">
+<img src="images/adblock.png" width="900" title="Adblock">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * etc
+
+</details>
+<br>
+<br>
