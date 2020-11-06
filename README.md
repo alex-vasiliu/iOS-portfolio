@@ -30,14 +30,9 @@ My latest projects
     - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
     - [Adblock & Parental Control](#adblock--parental-control)
 - Games
-    - [Command-line tool](#command-line-tool)
-    - [Xcode source editor extension](#xcode-source-editor-extension)
-    - [Xcode build phase](#xcode-build-phase)
-    - [Via Applescript](#via-applescript)
-    - [VSCode plugin](#vscode-plugin)
-    - [Sublime Text plugin](#sublime-text-plugin)
-    - [Git pre-commit hook](#git-pre-commit-hook)
-    - [On CI using Danger](#on-ci-using-danger)
+    - [Squares](#squares)
+    - [Shapes](#shapes)
+   
 
 <br>
 
