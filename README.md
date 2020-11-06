@@ -14,5 +14,5 @@
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
 
 <p align="center">
-<a href="https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525" target="_blank"><img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch"></a>
+<img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch">
 </p>
