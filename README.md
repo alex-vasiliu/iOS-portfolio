@@ -16,7 +16,7 @@
 <img src="images/connect_plus.png" width="900" title="Connect Plus">
 </p>
 
-##### 🔨 Technologies: 
+##### 🔨 Technologies Used: 
 * MVC and MVVM design patterns.
 * Coordinator pattern to control the navigation flow of the app.
 * Parsing JSON from OpenWeatherAPI and transforming it to fit the required model, along with persisting the data.
