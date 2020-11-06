@@ -119,7 +119,7 @@ My latest projects
   * Fund account with Credit Card or Apple Pay
   * Track user activity with Analytics
   * Deep Linking using Branch.io
-  * biometric authentication with Face and Touch ID
+  * Biometric Authentication with Face and Touch ID
   * Share and invite with message or email
 
 </details>
