@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary>🔨 <b>More details about technologies used</b></summary>
+  <summary><b>More details about technologies used 🔨 </b></summary>
   
   * MVC and MVVM design patterns.
   * Coordinator pattern to control the navigation flow of the app.
