@@ -61,5 +61,8 @@
   * Local notifications
   * Networking Layer using Alamofire
   * UnitTest for algorithms and REST API  
+  * Fluid animations for Tap gestures
+  * Custom PacMan loading screen while waiting for API response
+  * Versatile Side Menu navigator
 
 </details>
