@@ -37,6 +37,8 @@
   * UnitTest for algorithms and REST API  
 
 </details>
+<br>
+<br>
 
 ## Worklin
 [Worklin](https://softia.ro/) is an application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security as the rest of the app, since it works with sensitive and national security data.
