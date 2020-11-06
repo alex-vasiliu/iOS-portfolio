@@ -13,7 +13,7 @@
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
 
-
+<br>
 <p align="center">
 <img src="images/connect_plus.jpg" width="900" title="Connect Plus">
 </p>
