@@ -171,7 +171,7 @@ My latest projects
 <br>
 
 ## Adblock & Parental Control
-[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) is the perfect application if you no longer want to see ads. AdBlock is the completely free and has over 50 million users across all browsers. With an easy setup and an ad blocking test function, you will save battery life by only loading the content you care about. It blocks all ads including YouTube.com video ads, Facebook, and everywhere else. Its blazing-fast, has automagical updates and an optimized block lists from our own, dedicated server.
+[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) is the perfect choice if you don't want to see ads. AdBlock is the completely free and has over 50 million users across all browsers. With an easy setup and an ad blocking test function, you will save battery life by only loading the content you care about. It blocks all ads including YouTube.com video ads, Facebook, and everywhere else. Its blazing-fast, has automagical updates and an optimized block lists from our own, dedicated server.
 
 
 
