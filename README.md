@@ -23,3 +23,10 @@
 * Keeping a clear separation of concerns between classes (API managers, model controllers and carving datasources away from view controllers).
 * Using 3rd party libraries with CocoaPods.
 * Local notifications.
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+     * With some
+     * Sub bullets
+</details>
