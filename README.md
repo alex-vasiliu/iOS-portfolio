@@ -134,7 +134,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, REST API, ApplePay, Analytics, Biometrics
 
 <p align="center">
-<img src="images/gameform.png" width="900" title="Connect Plus">
+<img src="images/delicious.png" width="900" title="Connect Plus">
 </p>
 
 <details>
