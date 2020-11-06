@@ -28,7 +28,7 @@ My latest projects
     - [GameForm](#gameform)
     - [Tubidy](#tubidy)
     - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
-    - [Adblock & Parental Control](#adblock--parental-control)
+    - [Adblock](#adblock)
 - Games
     - [Squares](#squares)
     - [Shapes](#shapes)
@@ -166,8 +166,8 @@ My latest projects
 <br>
 <br>
 
-## Adblock & Parental Control
-[Adblock & Parental Control](https://appadvice.com/app/adblock-parental-control-pro/1170239725) is the perfect choice if you don't want to see ads. Not only is the completely free and has over 50 million users across all browsers, but with its easy setup and the built-in blocking functions, you will save battery life by only loading the content you care about. It will block all ads, including the ones from Youtube, Facebook, Instagram and everywhere else. Its blazing-fast, has automagical updates and an optimized block lists from our own, dedicated server.
+## Adblock
+[Adblock](https://appadvice.com/app/adblock-parental-control-pro/1170239725) is the perfect choice if you don't want to see ads. Not only is the completely free and has over 50 million users across all browsers, but with its easy setup and the built-in blocking functions, you will save battery life by only loading the content you care about. It will block all ads, including the ones from Youtube, Facebook, Instagram and everywhere else. Its blazing-fast, has automagical updates and an optimized block lists from our own, dedicated server.
 
 
 
