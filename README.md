@@ -43,7 +43,7 @@
 ## Worklin
 [Worklin](https://softia.ro/) is a cross-platform application for managing the complete range of a company's needs. It contains features as time-tracking, time-off and PTO requests, documents management and others. For HR and administrative employees, it also serves as a reporting tool and all is needed in terms of legal documents.
 
-##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
+##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, Alamofire, UnitTest
 
 <p align="center">
 <img src="images/worklin.png" width="900" title="Connect Plus">
@@ -55,14 +55,10 @@
   * Fully written in Swift
   * MVVM design pattern with Service-Oriented architecture
   * SwiftFormat for code formatting
-  * Nuke for image loading and caching
-  * Calendar for events
   * Keychain to store user credentials and sensitive data
   * Data sources independent from ViewControllers
-  * REST API alongside Postman, Insomnia, Docker and pgAdmin
-  * Local notifications and Push Notifications with Firebase
-  * MapKit and CoreLocation alongside Google Maps API for geotargeting, geocoding and reverse geocoding
-  * Realtime Messaging using Pusher
+  * REST API alongside Insomnia, Docker and pgAdmin
+  * Local notifications
   * Networking Layer using Alamofire
   * UnitTest for algorithms and REST API  
 
