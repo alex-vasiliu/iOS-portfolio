@@ -9,7 +9,6 @@
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
 
-Applications
 -----------------
 
 - Software
