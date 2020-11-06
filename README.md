@@ -139,9 +139,9 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * Store and Download files from cloud services Dropbox, iCloud, Drive
-  * Develop download library with torrent-like behaviour
-  * Localization for different countries based on device language
+  * Store, Download files from cloud services like Dropbox, iCloud, Google Drive
+  * Develop an internal Download library with Torrent-like behaviour
+  * Localization based on device language
 
 </details>
 <br>
