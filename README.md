@@ -26,6 +26,6 @@
 
 <details>
   <summary>Click to expand!</summary>
-     * With some
-     * Sub bullets
+  * With some
+  * Sub bullets
 </details>
