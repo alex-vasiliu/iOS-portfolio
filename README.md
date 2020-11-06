@@ -51,7 +51,6 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * Fully written in Swift
   * MVVM design pattern with Service-Oriented architecture
   * SwiftFormat for code formatting
   * Nuke for image loading and caching
@@ -81,8 +80,7 @@ My latest projects
 
 <details>
   <summary><b>More details about technologies used</b></summary>
-  
-  * Fully written in Swift
+
   * MVVM design pattern with Service-Oriented architecture
   * SwiftFormat for code formatting
   * Keychain to store user credentials and sensitive data
@@ -111,7 +109,7 @@ My latest projects
 
 <details>
   <summary><b>More details about technologies used</b></summary>
-  
+ 
   * MVC with Decorator design patern
   * SwiftFormat for code formatting
   * Apple, Google and Phone number Login with SMS verification code
@@ -131,7 +129,7 @@ My latest projects
 [AllDelicious](https://apps.apple.com/us/app/alldelicious-new-food-recipes-shopping-list/id1109702043) & [SoDelicious](https://apps.apple.com/us/app/sodelicious-quick-delicious-cooking-recipes-for-food/id1109702047) is your new cooking coach! With over 4000 Tasty recipes now at your fingertips, an innovative Step-By-Step instruction mode, a ‘Favourite Recipes’ page which serves as your very own mobile cookbook, and an incredible Search tool that allows you to filter by any ingredients, cuisine and social occasion you’re in the mood for. You can also create, organize and share you recipe collection to make finding favorite recipes a snap.
 
 
-##### 🔨 Technologies Used: Swift, REST API, ApplePay, Analytics, Biometrics
+##### 🔨 Technologies Used: Objective-C, AFNetworking, Ads, SQLite
 
 <p align="center">
 <img src="images/delicious.png" width="900" title="Connect Plus">
@@ -140,16 +138,10 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * MVC with Decorator design patern
-  * SwiftFormat for code formatting
-  * Apple, Google and Phone number Login with SMS verification code
-  * REST API alongside Postman
-  * Local notifications and Push Notifications
-  * Fund account with Credit Card or Apple Pay
-  * Track user activity with Analytics
-  * Deep Linking using Branch.io
-  * biometric authentication with Face and Touch ID
-  * Share and invite with message or email
+  * Networking Layer using AFNetworking
+  * Ads from different providers
+  * Interrogate, Update database with SQLite
+  * Custom Views
 
 </details>
 <br>
