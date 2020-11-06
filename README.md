@@ -19,7 +19,7 @@
 ##### 🔨 Technologies Used: SwiftUI, Combine, MVVM, Bitrise, Notifications.
 
 <details>
-  <summary>More details about Technologies Used</summary>
+  <summary>more details about technologies used 🔧</summary>
   
   * MVC and MVVM design patterns.
   * Coordinator pattern to control the navigation flow of the app.
