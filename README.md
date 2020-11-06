@@ -10,7 +10,7 @@
 </p>
 
 <br>
-I'm Alex, an iOS developer and technical consultant based in Bucharest. I have been programming since when I was 16, started my first job as a developer at 19 years old and at 23 graduated as an Engineer in Robotics, Automatic Control of Industrial Machines and Computer Science.
+I'm Alex, an iOS developer and technical consultant based in Bucharest. I have been programming since when I was 16, started my first job as a developer at 20 years old and at 23 graduated as an Engineer in Robotics, Automatic Control of Industrial Machines and Computer Science.
 <br><br>
 
 I have a wealth of experience working with clients from all around the world. The work I provide is of the highest quality, fully responsive, and tested in a wide range of devices. I take great care to ensure each project is well-architected, well-documented and easily maintainable so you can enhance an app as your company grows. I maintain a high code quality standard. Writing code that is documented and easy to read means it can be maintained and scaled in the future and allows co-workers to quickly work with it.
