@@ -26,7 +26,7 @@ My latest projects
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
-    - [AllDelicious & SoDelicious](#alldelicious-&-sodelicious)
+    - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
 - Games
     - [Command-line tool](#command-line-tool)
     - [Xcode source editor extension](#xcode-source-editor-extension)
