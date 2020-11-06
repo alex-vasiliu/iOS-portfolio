@@ -76,7 +76,7 @@
 ##### 🔨 Technologies Used: Swift, MVVM, Service-Oriented Architecture, REST API, Keychain, MapKit, Alamofire, Pusher, UnitTest
 
 <p align="center">
-<img src="images/connect_plus.png" width="900" title="Connect Plus">
+<img src="images/gameform.png" width="900" title="Connect Plus">
 </p>
 
 <details>
