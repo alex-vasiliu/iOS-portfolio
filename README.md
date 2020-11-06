@@ -21,8 +21,7 @@
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * MVC and MVVM design patterns.
-  * Fully written in Swift.
+  * Fully written in Swift
   * MVVM design pattern with Service oriented architecture
   * SwiftFormat for code formatting
   * Nuke for image loading and caching
