@@ -19,7 +19,7 @@ I have a wealth of experience working with clients from all around the world. Th
 I've been developing natively in Swift for years. I believe that native apps give the best results and have the least problems when it comes to adopting new iOS features, iOS versions or when new devices are released. I also have direct experience with Apple's policies, device capabilities and account management procedures alongside with a good understanding of what it takes to maintain apps over the long term. 
 <br><br>
 
-My latedt projects: 
+My latest projects
 <br><br>
 
 - [Software](#connect-plus)
