@@ -1,2 +1,3 @@
-# iOS-portfolio
-A visual portfolio of my latest projects
+<h1 align="center">
+  Alexandru Vasiliu - iOS Portfolio
+</h1>
