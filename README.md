@@ -14,5 +14,5 @@
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
 
 <p align="center">
-<img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch">
+<img src="images/buoywatch/buoywatch.png" width="900" title="Connect Plus">
 </p>
