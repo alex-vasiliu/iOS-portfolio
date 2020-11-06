@@ -9,12 +9,10 @@
 </p>
 
 ## Connect Plus
-[Connect Plus](https://nepservices.com/) is a prototype weather app for flip flops lovers. You can add favourite locations, view the current weather and forecast in those locations, and get some support that it's 'flip flop weather' outside. You can also get notifications from your favourites, and view them on a map.
-
-I'm really happy with the models I wrote for this app: everything has a clear task, separate from other objects, and I've worked hard to pass updates around my app using delegates, protocols and notifications.
+[Connect Plus](https://nepservices.com/) is an iOS application made specifically for the Law Enforcement, Firefighters and Sheriff Labor Organisations. It acts as a secured platform where communication, event calendar, news feed and document libraries are brought together in order to provide a complete experience to its users. The 1:1 and group chat has a high degree of security, as the rest of the app since it works with sensitive and national security data.
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
-##### 🚀Platform: 📱iOS, ⌚️watchOS
+
 <p align="center">
 <a href="https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525" target="_blank"><img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch"></a>
 </p>
