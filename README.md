@@ -24,9 +24,11 @@
 * Using 3rd party libraries with CocoaPods.
 * Local notifications.
 
+# A collapsible section containing code
 <details>
-  <summary>More details about technologies</summary>
-   ```javascript
+  <summary>Click to expand!</summary>
+  
+  ```javascript
     function whatIsLove() {
       console.log('Baby Don't hurt me. Don't hurt me');
       return 'No more';
