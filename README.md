@@ -26,6 +26,7 @@ My latest projects
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
+    - [Tubidy](#tubidy)
     - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
 - Games
     - [Command-line tool](#command-line-tool)
@@ -125,6 +126,27 @@ My latest projects
 <br>
 <br>
 
+## Tubidy
+[Tubidy](https://apps.apple.com/us/app/tubidy-fm-radio-music-player/id1355464544) is the perfect application for listening the music you love with more than 70,000 radio stations from 210 countries. You can listen to top radio stations, music, news, sports, talk and comedy and create your own playlists. You can even see the recently played songs on the radio. Search by country, by genre, by state or by city and listen to all that music in the background. Don’t forget you can always bring your media files from your cloud provider.
+
+
+##### 🔨 Technologies Used: Swift, Cloud, Download, Localization
+
+<p align="center">
+<img src="images/tubidy.png" width="900" title="Connect Plus">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * Store and Download files from cloud services Dropbox, iCloud, Drive
+  * Develop download library with torrent-like behaviour
+  * Localization for different countries based on device language
+
+</details>
+<br>
+<br>
+
 ## AllDelicious & SoDelicious
 [AllDelicious](https://apps.apple.com/us/app/alldelicious-new-food-recipes-shopping-list/id1109702043) & [SoDelicious](https://apps.apple.com/us/app/sodelicious-quick-delicious-cooking-recipes-for-food/id1109702047) is your new cooking coach! With over 4000 Tasty recipes now at your fingertips, an innovative Step-By-Step instruction mode, a ‘Favourite Recipes’ page which serves as your very own mobile cookbook, and an incredible Search tool that allows you to filter by any ingredients, cuisine and social occasion you’re in the mood for. You can also create, organize and share you recipe collection to make finding favorite recipes a snap.
 
@@ -148,6 +170,4 @@ My latest projects
 <br>
 
 
-Tubidy & Tubify
 Adblock & Parental Control Pro
-EvoMag
