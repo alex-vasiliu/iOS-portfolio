@@ -271,7 +271,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, SpriteKit, In-App Purchase, CryptoSwift
 
 <p align="center">
-<img src="images/inno.png" width="900" title="Inno's Adventures">
+<img src="images/moonbear.png" width="900" title="Moonbear Smash">
 </p>
 
 <details>
