@@ -188,7 +188,7 @@ My latest projects
 <br>
 
 ## Squares
-[Squares](https://vimeo.com/339985978), get your fingers ready for the ultimate gaming experience. While it’s easy to learn, is hard to master. Tap and swipe squares, complete levels, challenge your friends and much more. It does not matter if you are a professional or a beginner, Squares is for anyone to enjoy. With 3 different game modes, 6 different type of squares and lots of skins and themes, every level will be a fun challenge.
+[Squares](https://vimeo.com/339985978), get your fingers ready for the ultimate gaming experience. While it’s easy to learn, it's hard to master. Tap and swipe the squares, complete levels, challenge your friends and much more. It does not matter if you are a professional or a beginner, Squares is for anyone to enjoy. With 3 different game modes, 6 different type of squares and lots of skins and themes, every level will be a fun challenge.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, Facebook, Firebase Storage, OneSignal, In-App Purchase, CryptoSwift, TodayWidget, QuickActions
 
