@@ -318,9 +318,9 @@ My latest projects
 <br>
 
 ## Memory Tap
-[Memory Tap](https://alexvasiliu.me/memory-tap) Memory tap is a remake of the classical Simon game from the 80s, a simple yet fun memory game of colors. The player must repeat certain patterns that the are displayed in the form blinking lights. The difficulty increases as you progress with lots of different levels and combinations. Not only it will boost your brain but it's also an excellent way to build divided attention and improve processing speed.
+[Memory Tap](https://alexvasiliu.me/memory-tap) is a remake of the classical Simon game from the 80s, a simple yet fun memory game of colors. The player must repeat certain patterns that the are displayed in the form blinking lights. The difficulty increases as you progress with lots of different levels and combinations. Not only it will boost your brain but it's also an excellent way to build divided attention and improve processing speed.
 
-##### 🔨 Technologies Used: sd
+##### 🔨 Technologies Used: Swift, SpriteKit
 
 <p align="center">
 <img src="images/memory.png" width="900" title="Memory Tap">
@@ -329,7 +329,9 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * asd
+  * SpriteKit framework with Decorator design pattern
+  * Fluid animations and transitions with SKAction
+  * Compatibility for all current and upcoming devices
   
 </details>
 <br>
