@@ -34,7 +34,7 @@ My latest projects
     - [Shapes](#shapes)
     - [Inno's Adventures](#innos-adventures)
     - [Moonbear Smash](#moonbear-smash)  
-    - [Baseball Run Smash](#baseball-run-smash)  
+    - [Baseball Run](#baseball-run)  
     
 <br>
 
@@ -291,8 +291,8 @@ My latest projects
 <br>
 <br>
 
-## Baseball Run Smash
-[Baseball Run Smash](https://apps.apple.com/ro/app/baseball-run-smash/id1333497818) is the perfect game to play on your way to work, while waiting for the coffee or when you’re bored. With a simple tap concept of switch the direction of the ball, collects as many points and power ups as you can before the bat hits you. Currency spawns rarely but it’s vital for unlocking new skins. Challenge your friends and climb as high as you can on the leaderboard.
+## Baseball Run
+[Baseball Run](https://apps.apple.com/ro/app/baseball-run-smash/id1333497818) is the perfect game to play on your way to work, while waiting for the coffee or when you’re bored. With a simple tap concept of switch the direction of the ball, collects as many points and power ups before the bat hits you. Currency spawns rarely but it’s vital for unlocking new skins. Challenge your friends and climb as high as you can on the leaderboard.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, CryptoSwift, GameCenter, Local Notifications
 
