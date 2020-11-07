@@ -188,9 +188,9 @@ My latest projects
 <br>
 
 ## Squares
-[Squares](https://vimeo.com/339985978) description.
+[Squares](https://vimeo.com/339985978), get your fingers ready for the ultimate gaming experience. While it’s easy to learn, is hard to master. Tap and swipe squares, complete levels, challenge your friends and much more. It does not matter if you are a professional or a beginner, Squares is for anyone to enjoy. With 3 different game modes, 6 different type of squares and lots of skins and themes, every level will be a fun challenge.
 
-##### 🔨 Technologies Used: Swift, SpriteKit, etc
+##### 🔨 Technologies Used: Swift, SpriteKit, Facebook, Firebase Storage, OneSignal, InAppPurchase, CryptoSwift, TodayWidget, QuickActions
 
 <p align="center">
 <img src="images/squares.png" width="900" title="Squares">
@@ -199,7 +199,16 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * MVVM design pattern with Service-Oriented architecture
+  * SpriteKit framework with Decorator design pattern
+  * Facebook login and user information
+  * Firebase Cloud Storage for user progress and data
+  * Push Notification with OneSignal for holiday rewards and cross promotion
+  * InAppPurchase for acquiring currency and cosmetics
+  * AES256-bit local data encryption with CryptoSwift
+  * TodayWidget with collapsed/expanded view to display user progress
+  * 3D-Touch Quick Actions 
+  * Calendar algorithm for Daily Rewards
+  * Fluid animations and transitions with SKAction
   
 </details>
 <br>
