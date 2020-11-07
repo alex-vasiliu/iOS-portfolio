@@ -268,7 +268,7 @@ My latest projects
 ## Moonbear Smash
 [Moonbear Smash](https://apps.apple.com/us/app/moonbear-smash/id1289157255) is the game where you will meet the toughest and the most hungry bear in the entire forest. The mission is simple, under the moonlight, smash with its head smash trees and collect as much honey as you can. Watch the time carefully, it goes faster every time! Discover the secret power ups, complete challenges, earn honey and buy new skins.
 
-##### 🔨 Technologies Used: Swift, SpriteKit, In-App Purchase, CryptoSwift
+##### 🔨 Technologies Used: Swift, SpriteKit, In-App Purchase, CryptoSwift, Twitter, GameCenter, Local Notifications
 
 <p align="center">
 <img src="images/moonbear.png" width="900" title="Moonbear Smash">
@@ -278,12 +278,14 @@ My latest projects
   <summary><b>More details about technologies used</b></summary>
   
   * SpriteKit framework
-  * In-App Purchase to unlock additional levels
+  * Share gameplay screenshots of your best score on Twitter
   * AES256-bit local data encryption with CryptoSwift
   * Fluid animations and transitions with SKAction
-  * Adjusting and processing the audio files 
+  * Calendar algorithm for Daily Rewards
+  * Local Notifications on a daily/weekly basis
+  * Leaderboards/Achievements with GameCenter
   * Compatibility for all current and upcoming devices
-  
+
 </details>
 <br>
 <br>
