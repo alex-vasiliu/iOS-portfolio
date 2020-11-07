@@ -37,6 +37,7 @@ My latest projects
     - [Baseball Run](#baseball-run)  
     - [Memory Tap](#memory-tap)  
     - [Hell's Kitchen](#hells-kitchen)  
+    - [House Painter](#house-painter)  
     
 <br>
 
@@ -340,10 +341,31 @@ My latest projects
 ## Hell's Kitchen
 [Hell's Kitchen](https://apps.apple.com/us/developer/mobiletech-software/id950274806) follows chef Gordon Ramsay in his cuisine where he tries to prepare a dish. You, as an orange, must run away from his knife and fight for your survival. Powerups like chilly or an ice will slow him down and win you some extra precious seconds. Challenge your friends and see who can beat the chef.
 
-##### 🔨 Technologies Used: Swift, SpriteKit
+##### 🔨 Technologies Used: Swift, SpriteKit, Ads
 
 <p align="center">
 <img src="images/kitchen.png" width="900" title="Hell's Kitchen">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * SpriteKit framework
+  * Fluid animations and transitions with SKAction
+  * Compatibility for all current and upcoming devices
+  * Banner, Interstitial and Reward Videos from different providers
+  
+</details>
+<br>
+<br>
+
+## House Painter
+[House Painter](https://alexvasiliu.me/house-painter) is the game where you can bring color to your walls. With a simple swipe gestures, you can control the roller right, left, up and down to fill the empty spots. The levels will get more and more complicated as you pain. so calculate your moves and try to come up with the best route. Gather enough gold sponges and you can buy different skins with different colors.
+
+##### 🔨 Technologies Used: Swift, SpriteKit
+
+<p align="center">
+<img src="images/house.png" width="900" title="House Painter">
 </p>
 
 <details>
@@ -356,4 +378,3 @@ My latest projects
 </details>
 <br>
 <br>
-
