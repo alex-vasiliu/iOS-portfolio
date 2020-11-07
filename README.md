@@ -34,7 +34,7 @@ My latest projects
     - [Shapes](#shapes)
     - [Inno's Adventures](#innos-adventures)
     - [Moonbear Smash](#moonbear-smash)  
-    - [Baseball Run](#baseball-run-smash)  
+    - [Baseball Run Smash](#baseball-run-smash)  
     
 <br>
 
