@@ -266,7 +266,7 @@ My latest projects
 <br>
 
 ## Moonbear Smash
-[Moonbear Smash](https://apps.apple.com/us/app/moonbear-smash/id1289157255) is the game where you will meet the toughest and the most hungry bear in the entire forest. The mission is simple, under the moonlight, smash with its head smash trees and collect as much honey as you can. Watch the time carefully, it goes faster every time! Discover the secret power ups, complete challenges, earn honey and buy new skins.
+[Moonbear Smash](https://apps.apple.com/us/app/moonbear-smash/id1289157255) is the game where you will meet the toughest and the hungriest bear in the forest. The mission is simple, under the moonlight, smash with its head smash the tree and collect as much honey as you can. Watch the time carefully, it goes faster every time! Discover the secret power ups, complete challenges and earn honey to buy new skins.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, In-App Purchase, CryptoSwift, Twitter, GameCenter, Local Notifications
 
