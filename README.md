@@ -338,7 +338,7 @@ My latest projects
 <br>
 
 ## Hell's Kitchen
-[Hell's Kitchen](https://apps.apple.com/us/developer/mobiletech-software/id950274806) follows chef Gordon Ramsay in his cuisine where he tries to prepare a dish. You, as an orange, must run from his knife and fight for your survival. Powerups like chilly or an ice will slow him down and win you some extra precious seconds. Challenge your friends and see who can survive the most against the chef.
+[Hell's Kitchen](https://apps.apple.com/us/developer/mobiletech-software/id950274806) follows chef Gordon Ramsay in his cuisine where he tries to prepare a dish. You, as an orange, must run away from his knife and fight for your survival. Powerups like chilly or an ice will slow him down and win you some extra precious seconds. Challenge your friends and see who can beat the chef.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit
 
