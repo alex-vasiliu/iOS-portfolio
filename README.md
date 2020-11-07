@@ -32,6 +32,7 @@ My latest projects
 - Games
     - [Squares](#squares)
     - [Shapes](#shapes)
+    - [Inno's Adventures](#inno's-adventures)
    
 
 <br>
