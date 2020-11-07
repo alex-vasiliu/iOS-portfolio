@@ -216,7 +216,7 @@ My latest projects
 <br>
 
 ## Shapes
-[Shapes](https://vimeo.com/339986401) is an arcade game crafted for players with all ages. Its simple concept using only familiar gestures like tapping and swiping allows it for an easy gameplay with intuitive interactions and a straightforward navigation. You can play it on your way to work, while waiting for the coffee or when you’re bored. Visiting the Daily Rewards feature will grant you extra rewards like cubes, skins and even themes.
+[Shapes](https://vimeo.com/339986401) is an arcade game crafted for players with all ages. Its simple concept using only familiar gestures like tapping and swiping allows it for an easy gameplay with intuitive interactions and a straightforward navigation. You can play it on your way to work, while waiting for the coffee or when you’re bored. The Daily Rewards feature will grant you extra rewards like cubes, skins and even themes.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, Facebook, Firebase Storage, OneSignal, In-App Purchase, CryptoSwift
 
