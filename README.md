@@ -292,9 +292,9 @@ My latest projects
 <br>
 
 ## Baseball Run Smash
-[Baseball Run Smash](https://apps.apple.com/ro/app/baseball-run-smash/id1333497818) desc.
+[Baseball Run Smash](https://apps.apple.com/ro/app/baseball-run-smash/id1333497818) is the perfect game to play on your way to work, while waiting for the coffee or when you’re bored. With a simple tap concept of switch the direction of the ball, collects as many points and power ups as you can before the bat hits you. Currency spawns rarely but it’s vital for unlocking new skins. Challenge your friends and climb as high as you can on the leaderboard.
 
-##### 🔨 Technologies Used: sdsd
+##### 🔨 Technologies Used: Swift, SpriteKit, CryptoSwift, GameCenter, Local Notifications
 
 <p align="center">
 <img src="images/baseball.png" width="900" title="Baseball Run Smash">
@@ -303,7 +303,13 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * sada
+  * SpriteKit framework
+  * AES256-bit local data encryption with CryptoSwift
+  * Fluid animations and transitions with SKAction
+  * Calendar algorithm for Daily Rewards
+  * Local Notifications on a daily/weekly basis
+  * Leaderboards/Achievements with GameCenter
+  * Compatibility for all current and upcoming devices
   
 </details>
 <br>
