@@ -35,6 +35,8 @@ My latest projects
     - [Inno's Adventures](#innos-adventures)
     - [Moonbear Smash](#moonbear-smash)  
     - [Baseball Run](#baseball-run)  
+    - [Memory Tap](#memory-tap)  
+    - [Hell's Kitchen](#hells-kitchen)  
     
 <br>
 
@@ -310,6 +312,24 @@ My latest projects
   * Local Notifications on a daily/weekly basis
   * Leaderboards/Achievements with GameCenter
   * Compatibility for all current and upcoming devices
+  
+</details>
+<br>
+<br>
+
+## Memory Tap
+[Memory Tap](https://alexvasiliu.me/memory-tap) sd
+
+##### 🔨 Technologies Used: sd
+
+<p align="center">
+<img src="images/memory.png" width="900" title="Memory Tap">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * asd
   
 </details>
 <br>
