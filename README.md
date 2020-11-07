@@ -34,7 +34,8 @@ My latest projects
     - [Shapes](#shapes)
     - [Inno's Adventures](#innos-adventures)
     - [Moonbear Smash](#moonbear-smash)  
-
+    - [Baseball Run](#baseball-run-smash)  
+    
 <br>
 
 ## Connect Plus
@@ -286,6 +287,24 @@ My latest projects
   * Leaderboards/Achievements with GameCenter
   * Compatibility for all current and upcoming devices
 
+</details>
+<br>
+<br>
+
+## Baseball Run Smash
+[Baseball Run Smash](https://apps.apple.com/ro/app/baseball-run-smash/id1333497818) desc.
+
+##### 🔨 Technologies Used: sdsd
+
+<p align="center">
+<img src="images/baseball.png" width="900" title="Baseball Run Smash">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * sada
+  
 </details>
 <br>
 <br>
