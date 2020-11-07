@@ -186,3 +186,21 @@ My latest projects
 </details>
 <br>
 <br>
+
+## Squares
+[Squares](https://vimeo.com/339985978) description.
+
+##### 🔨 Technologies Used: Swift, SpriteKit, etc
+
+<p align="center">
+<img src="images/squares.png" width="900" title="Squares">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * MVVM design pattern with Service-Oriented architecture
+  
+</details>
+<br>
+<br>
