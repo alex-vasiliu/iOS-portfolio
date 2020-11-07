@@ -336,3 +336,24 @@ My latest projects
 </details>
 <br>
 <br>
+
+## Hell's Kitchen
+[Hell's Kitchen](https://apps.apple.com/us/developer/mobiletech-software/id950274806) aads
+
+##### 🔨 Technologies Used: Swift, SpriteKit
+
+<p align="center">
+<img src="images/kitchen.png" width="900" title="Hell's Kitchen">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * SpriteKit framework with Decorator design pattern
+  * Fluid animations and transitions with SKAction
+  * Compatibility for all current and upcoming devices
+  
+</details>
+<br>
+<br>
+
