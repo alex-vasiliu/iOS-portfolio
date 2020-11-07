@@ -318,7 +318,7 @@ My latest projects
 <br>
 
 ## Memory Tap
-[Memory Tap](https://alexvasiliu.me/memory-tap) sd
+[Memory Tap](https://alexvasiliu.me/memory-tap) Memory tap is a remake of the classical Simon game from the 80s, a simple yet fun memory game of colors. The player must repeat certain patterns that the are displayed in the form blinking lights. The difficulty increases as you progress with lots of different levels and combinations. Not only it will boost your brain but it's also an excellent way to build divided attention and improve processing speed.
 
 ##### 🔨 Technologies Used: sd
 
