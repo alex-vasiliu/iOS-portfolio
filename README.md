@@ -406,7 +406,7 @@ My latest projects
 <br>
 
 ## Tricky Disc
-[Tricky Disc](https://codecanyon.net/item/tricky-disc-native-ios-mobile-game-app/24388461) is an arcade game crafted for all kind of players. With a simple tap to fire the disc, aim for the green circles and destroy as many as you can. Time each tap carefully but don’t wait too long! It looks easy it but becomes more challenging with every circle you destroy. 
+[Tricky Disc](https://codecanyon.net/item/tricky-disc-native-ios-mobile-game-app/24388461) is a simple yet challenging arcade game. With a simple tap to fire the disc, aim for the green circles and destroy as many as you can. Time each tap carefully but don’t wait too long! It looks easy it but becomes more challenging with every circle you destroy. Gold circles spawn rarely but they are vital in purchasing new skins and themes.
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, Ads, Local Notifications
 
