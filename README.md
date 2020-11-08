@@ -427,6 +427,27 @@ My latest projects
 <br>
 <br>
 
+## Square Dash
+[Square Dash](https://alexvasiliu.me/square-dash) is a challenging yet addictive game where you have to tap when the colored circle reaches the center of the gray point. Time each tap carefully and avoid colliding into the walls! Currency spawns rarely, but it’s vital for purchasing new skins and themes. It looks easy but it becomes more challenging with every point collected. See how long you can survive!
+
+##### 🔨 Technologies Used: Swift, SpriteKit, GameCenter
+
+<p align="center">
+<img src="images/squaredash.png" width="900" title="Square Dash">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * SpriteKit framework with Decorator design pattern
+  * Fluid animations and transitions with SKAction
+  * Leaderboard/Achievements with GameCenter
+  * Compatibility for all current and upcoming devices
+  
+</details>
+<br>
+<br>
+
 ## Circle Dash
 [Circle Dash](https://codecanyon.net/item/circle-dash-native-ios-130-mobile-game-app-iphone-11-corona/27538831) is a challenging yet addictive game where you have to tap when the colored circle reaches the center of the gray point. Time each tap carefully and avoid colliding into the walls! Currency spawns rarely, but it’s vital for purchasing new skins and themes. It looks easy but it becomes more challenging with every point collected. See how long you can survive!
 
