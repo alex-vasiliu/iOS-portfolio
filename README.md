@@ -37,7 +37,11 @@ My latest projects
     - [Baseball Run](#baseball-run)  
     - [Memory Tap](#memory-tap)  
     - [Hell's Kitchen](#hells-kitchen)  
-    - [House Painter](#house-painter)  
+    - [House Painter](#house-painter)
+    - [Circle Rush](#circle-rush)
+    - [Tricky Disc](#tricky-disc)
+    - [Square Dash](#square-dash)
+    - [Circle Dash](#circle-dash)
     
 <br>
 
@@ -373,6 +377,28 @@ My latest projects
   
   * SpriteKit framework with Decorator design pattern
   * Fluid animations and transitions with SKAction
+  * Compatibility for all current and upcoming devices
+  
+</details>
+<br>
+<br>
+
+## Circle Rush
+[Circle Rush](https://codecanyon.net/item/circle-rush-native-ios-130-mobile-game-app-iphone-11-corona/26027476) is a challenging yet addictive game where you have to tap in order to switch the direction of the circle. Dodge the incoming obstacles and collect as many points as you can. Currency spawns rarely, but it’s vital for purchasing new skins and themes. Time each tap carefully but don’t wait too long! It looks easy but it becomes more challenging with every obstacle you avoid. See how long you can survive!
+
+##### 🔨 Technologies Used: Swift, SpriteKit, Ads, GameCenter
+
+<p align="center">
+<img src="images/circlerush.png" width="900" title="Circle Rush">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * SpriteKit framework with Decorator design pattern
+  * Fluid animations and transitions with SKAction
+  * Leaderboards with GameCenter
+  * Banner, Interstitial, Reward Videos from different ad providers
   * Compatibility for all current and upcoming devices
   
 </details>
