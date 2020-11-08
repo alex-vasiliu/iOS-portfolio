@@ -428,7 +428,7 @@ My latest projects
 <br>
 
 ## Square Dash
-[Square Dash](https://alexvasiliu.me/square-dash) is a challenging yet addictive game where you have to tap when the colored circle reaches the center of the gray point. Time each tap carefully and avoid colliding into the walls! Currency spawns rarely, but it’s vital for purchasing new skins and themes. It looks easy but it becomes more challenging with every point collected. See how long you can survive!
+[Square Dash](https://alexvasiliu.me/square-dash)  is the perfect game to play on your way to work, while waiting for the coffee or when you’re bored. With a simple tap left or right concept, switch the position of your squares. Avoid the collision with the incoming obstacles and collects the points. Challenge your friends and climb as high as you can on the leaderboard
 
 ##### 🔨 Technologies Used: Swift, SpriteKit, GameCenter
 
