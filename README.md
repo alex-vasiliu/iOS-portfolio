@@ -6,6 +6,7 @@
 <p align="center">
     <a href="mailto:alexg.vasiliu@gmail.com">Email Me</a>  · 
     <a href="https://github.com/avasiliu-ro/iOS-portfolio/blob/main/AlexVasiliuCV.pdf">Download CV</a>  ·
+    <a href="https://www.linkedin.com/in/alex-vasiliu/">LinkedIn</a>  ·
     <a href="https://alexvasiliu.me/">Website</a>
 </p>
 
