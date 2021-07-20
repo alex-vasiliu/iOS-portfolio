@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [Utilio](#utilio)
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
     - [GameForm](#gameform)
@@ -44,6 +45,24 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## Utilio
+[Utilio](https://www.petrom.ro/) sdadsadad.
+
+##### 🔨 Technologies Used: asdad
+
+<p align="center">
+<img src="images/utilio_blured.png" width="900" title="Utilio">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * asdad
+
+</details>
+<br>
 <br>
 
 ## Connect Plus
