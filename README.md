@@ -59,7 +59,20 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * asdad
+  * CLEAN architecture design pattern
+  * FlowX.AI generating omnichannel interfaces
+  * Socket.IO for real-time and bidirectional event-based communication
+  * Fastlane to automate testers and builds schemas for deployment
+  * SwiftLint to enforce style and conventions for code formatting
+  * Firebase for Crashlytics, App Distribution and Notifications
+  * Analytics for screen tracking and event logging
+  * REST API alongside Postman
+  * Networking Layer using Alamofire
+  * Keychain to store user credentials and sensitive data
+  * Charts for displaying large quantities of data and the relationships between parts of data
+  * Lottie for native rendering of high-quality animations
+  * SwiftMessages for displaying flexible layouts on specific triggers
+  * UnitTest for algorithms and REST API
 
 </details>
 <br>
