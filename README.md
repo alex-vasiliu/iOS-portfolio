@@ -48,7 +48,7 @@ My latest projects
 <br>
 
 ## Utilio
-[Utilio](https://www.petrom.ro/) sdadsadad.
+[Utilio](https://www.petrom.ro/) is a multi-platform solution dedicated to customers and staff for acquiring natural gas products and managing the account. The application contains a public area from where the possible customers can acquire commodities and additional services and an internal area with account for enrolled customers in order to manage their accounts during collaboration. 
 
 ##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, UnitTest
 
