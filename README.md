@@ -50,7 +50,7 @@ My latest projects
 ## Utilio
 [Utilio](https://www.petrom.ro/) sdadsadad.
 
-##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, UnitTest
+##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, UnitTest
 
 <p align="center">
 <img src="images/utilio_blured.png" width="900" title="Utilio">
