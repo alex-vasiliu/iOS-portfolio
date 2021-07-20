@@ -50,7 +50,7 @@ My latest projects
 ## Utilio
 [Utilio](https://www.petrom.ro/) is a multi-platform solution dedicated to customers and staff for acquiring natural gas products and managing the account. The application contains a public area from where the possible customers can acquire commodities and additional services and an internal area with account for enrolled customers in order to manage their accounts during collaboration. 
 
-##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, UnitTest
+##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, Zeplin, UnitTest
 
 <p align="center">
 <img src="images/utilio_blured.png" width="900" title="Utilio">
@@ -72,6 +72,7 @@ My latest projects
   * Charts for displaying large quantities of data and the relationships between parts of data
   * Lottie for native rendering of high-quality animations
   * SwiftMessages for displaying flexible layouts on specific triggers
+  * Zeplin for wireframes and visual design
   * UnitTest for algorithms and REST API
 
 </details>
