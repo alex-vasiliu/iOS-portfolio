@@ -49,7 +49,7 @@ My latest projects
 <br>
 
 ## myAsirom
-[myAsirom](https://www.petrom.ro/) asda 
+[myAsirom](https://asirom.ro/) is a multi-platform solution dedicated to customers for acquiring online insurance products and manage their accounts. The application contains a public area from where the possible customers can acquire insurances and additional services and an internal area for enrolled customers in order to get support, make payments and manage their accounts during collaboration.
 
 ##### 🔨 Technologies Used: asd
 
