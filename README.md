@@ -67,7 +67,7 @@ My latest projects
 <br>
 
 ## Utilio
-[Utilio](https://omvpetrom.utilio.ro/) is a multi-platform solution dedicated to customers and staff for acquiring natural gas products and managing the account. The application contains a public area from where the possible customers can acquire commodities and additional services and an internal area with account for enrolled customers in order to manage their accounts during collaboration. [article](https://www.romaniajournal.ro/business/new-digital-platform-to-accelerate-growth-in-the-sme-gas-market-through-digital-sales/)
+[Utilio](https://omvpetrom.utilio.ro/) is a multi-platform [solution](https://www.romaniajournal.ro/business/new-digital-platform-to-accelerate-growth-in-the-sme-gas-market-through-digital-sales/) dedicated to customers and staff for acquiring natural gas products and managing the account. The application contains a public area from where the possible customers can acquire commodities and additional services and an internal area with account for enrolled customers in order to manage their accounts during collaboration.
 
 ##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, Zeplin, UnitTest
 
