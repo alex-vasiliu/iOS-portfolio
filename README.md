@@ -48,10 +48,10 @@ My latest projects
     
 <br>
 
-## myAsirom
+## myAsirom (in development)
 [myAsirom](https://asirom.ro/) is a multi-platform solution dedicated to customers for acquiring online insurance products and manage their accounts. The application contains a public area from where the possible customers can acquire insurances and additional services and an internal area for enrolled customers in order to get support, make payments and manage their accounts during collaboration.
 
-##### 🔨 Technologies Used: asd
+##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
 
 <p align="center">
 <img src="images/myasirom_blured.png" width="900" title="myAsirom">
@@ -60,7 +60,18 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * asd
+  * 95% SwiftUI (presentation + business logic) + 5% UIKit (navigation logic)
+  * MVVM architecture design pattern
+  * FlowX.AI generating omnichannel interfaces
+  * Socket.IO for real-time and bidirectional event-based communication
+  * SwiftLint to enforce style and conventions for code formatting
+  * Firebase for Crashlytics and App Distribution
+  * Analytics for screen tracking and event logging
+  * REST API alongside Postman
+  * Networking Layer using Alamofire
+  * Keychain to store user credentials and sensitive data
+  * Lottie for native rendering of high-quality animations
+  * Zeplin for wireframes and visual design
 
 </details>
 <br>
