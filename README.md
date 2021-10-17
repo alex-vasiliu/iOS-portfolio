@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [myAsirom](#myasirom)
     - [Utilio](#utilio)
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
@@ -45,6 +46,24 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## myAsirom
+[myAsirom](https://www.petrom.ro/) asda 
+
+##### 🔨 Technologies Used: asd
+
+<p align="center">
+<img src="images/myasirom_blured.png" width="900" title="myAsirom">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * asd
+
+</details>
+<br>
 <br>
 
 ## Utilio
