@@ -24,7 +24,7 @@ My latest projects
 <br><br>
 
 - Software
-    - [InsuranceApp](#InsuranceApp)
+    - [myAsirom](#myAsirom)
     - [Utilio](#utilio)
     - [Connect Plus](#connect-plus)
     - [Worklin](#worklin)
@@ -48,8 +48,8 @@ My latest projects
     
 <br>
 
-## InsuranceApp
-InsuranceApp is a multi-platform solution dedicated to customers for acquiring online insurance products and manage their accounts. The application contains a public area from where the possible customers can acquire insurances and additional services and an internal area for enrolled customers in order to get support, make payments and manage their accounts during collaboration.
+## myAsirom
+[myAsirom](https://asirom.ro/)p is a multi-platform solution dedicated to customers for acquiring online insurance products and manage their accounts. The application contains a public area from where the possible customers can acquire insurances and additional services and an internal area for enrolled customers in order to get support, make payments and manage their accounts during collaboration.
 
 ##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
 
@@ -60,7 +60,7 @@ InsuranceApp is a multi-platform solution dedicated to customers for acquiring
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * 95% SwiftUI (presentation + business logic) + 5% UIKit (navigation logic)
+  * 95% SwiftUI (presentation logic) + 5% UIKit (navigation logic)
   * MVVM architecture design pattern
   * FlowX.AI generating omnichannel interfaces
   * Socket.IO for real-time and bidirectional event-based communication
