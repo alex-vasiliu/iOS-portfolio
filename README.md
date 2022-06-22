@@ -55,7 +55,7 @@ My latest projects
 ##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
 
 <p align="center">
-<img src="images/smart_mobile.png" width="900" title="Smart Mobile">
+<img src="images/smartmobile.png" width="900" title="Smart Mobile">
 </p>
 
 <details>
