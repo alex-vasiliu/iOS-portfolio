@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [Smart Mobile](#smart-mobile)
     - [myAsirom](#myAsirom)
     - [Utilio](#utilio)
     - [Connect Plus](#connect-plus)
@@ -46,6 +47,35 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## smart-mobile
+[Smart Mobile](https://apps.apple.com/ro/app/noul-raiffeisen-smart-mobile/id1255136212) is the control panel for your money. You simply login and you have access to all banking operations. In addition to mobile phone payments, transfers and invoice payments, you can always open a new account and order a new card. You can search for a payment from the past and make it again, you can shedule future payments, issue direct debit bill payments or save them into templates. In short, you can do almost any of your banking business. Through push notifications, you will find out instantly how much money goes or comes in your current account, or is paid with yuor credit card..
+
+##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
+
+<p align="center">
+<img src="images/smart_mobile.png" width="900" title="Smart Mobile">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * 95% SwiftUI (presentation logic) + 5% UIKit (navigation logic)
+  * MVVM architecture design pattern
+  * FlowX.AI generating omnichannel interfaces
+  * Socket.IO for real-time and bidirectional event-based communication
+  * SwiftLint to enforce style and conventions for code formatting
+  * Firebase for Crashlytics and App Distribution
+  * Analytics for screen tracking and event logging
+  * REST API alongside Postman
+  * Networking Layer using Alamofire
+  * Keychain to store user credentials and sensitive data
+  * Lottie for native rendering of high-quality animations
+  * Zeplin for wireframes and visual design
+
+</details>
+<br>
 <br>
 
 ## myAsirom
