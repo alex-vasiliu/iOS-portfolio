@@ -49,7 +49,7 @@ My latest projects
     
 <br>
 
-## smart-mobile
+## Smart Mobile
 [Smart Mobile](https://apps.apple.com/ro/app/noul-raiffeisen-smart-mobile/id1255136212) is the control panel for your money. You simply login and you have access to all banking operations. In addition to mobile phone payments, transfers and invoice payments, you can always open a new account and order a new card. You can search for a payment from the past and make it again, you can shedule future payments, issue direct debit bill payments or save them into templates. In short, you can do almost any of your banking business. Through push notifications, you will find out instantly how much money goes or comes in your current account, or is paid with yuor credit card..
 
 ##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
