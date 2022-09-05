@@ -110,7 +110,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, Zeplin, UnitTest
 
 <p align="center">
-<img src="images/utilio_blured.png" width="900" title="Utilio">
+<img src="images/utilio.png" width="900" title="Utilio">
 </p>
 
 <details>
