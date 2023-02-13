@@ -52,7 +52,7 @@ My latest projects
 ## Smart Mobile
 [Smart Mobile](https://apps.apple.com/ro/app/noul-raiffeisen-smart-mobile/id1255136212) is the control panel for your money. You simply login and you have access to all banking operations. In addition to mobile phone payments, transfers and invoice payments, you can always open a new account and order a new card. You can search for a payment from the past and make it again, you can shedule future payments, issue direct debit bill payments or save them into templates. In short, you can do almost any of your banking business. Through push notifications, you will find out instantly how much money goes and comes in your current account or is paid with your credit card.
 
-##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Swift Package Manager, Localization, REST API, Alamofire, PromiseKit, Dark Mode, SwiftLint, Figma
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Swift Package Manager, Localization, REST API, Alamofire, PromiseKit, Dark Mode, SwiftLint, Figma, Jenkins, Github Actions
 
 <p align="center">
 <img src="images/smartmobile.png" width="900" title="Smart Mobile">
@@ -72,7 +72,8 @@ My latest projects
   * Dark Mode option for low-light environments
   * SwiftLint to enforce style and conventions for code formatting
   * Figma for wireframes and visual design
-
+  * Jenkins and Github actions for CI/CD
+    
 </details>
 <br>
 <br>
