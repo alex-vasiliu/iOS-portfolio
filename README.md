@@ -62,7 +62,8 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * Developed in UIKit with CLEAN architecture design pattern
+  * Developed in UIKit
+  * CLEAN architecture design pattern
   * REST API alongside Postman
   * Networking Layer using Alamofire
   * SwiftLint to enforce style and conventions for code formatting
