@@ -54,7 +54,7 @@ My latest projects
 ## EnBW mobility+
 [EnBW mobility+](https://apps.apple.com/fr/app/enbw-mobility/id1232210521?l=en) is the smart all-in-one solution for your eMobility. Our Electric Vehicle (EV) copilot allows you to easily find charging stations and charge your EV via App, charging card or AutoCharge with a very simple payment process. Our interactive map makes it easy for you to find free charging stations for electric cars in your area. With Apple CarPlay, the app can be easily connected to the display in your car. 
 
-##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Swift Package Manager, Azure DevOps, REST API, Dark Mode, PromiseKit, Lokalise, Fakery, Firebase, Lottie, Nimble, Unit Tests, SwiftLint, Figma, 
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Swift Package Manager, Azure DevOps, REST API, Dark Mode, PromiseKit, Lokalise, Fakery, Firebase, Lottie, Nimble, Unit Tests, SwiftLint, Figma
 
 <p align="center">
 <img src="images/enbw.png" width="900" title="EnBW mobility+">
