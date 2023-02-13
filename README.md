@@ -83,7 +83,7 @@ My latest projects
 ##### 🔨 Technologies Used: SwiftUI, MVVM, FlowX.AI, Socket.IO, REST API, Alamofire, Firebase, Analytics, Keychain, SwiftLint, Lottie, Zeplin
 
 <p align="center">
-<img src="images/myasirom_blured.png" width="900" title="myAsirom">
+<img src="images/myasirom.png" width="900" title="myAsirom">
 </p>
 
 <details>
