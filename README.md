@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [EnBW mobility+](#enbw) 
     - [Casa Mea](#casa-mea) 
     - [Smart Mobile](#smart-mobile)
     - [myAsirom](#myAsirom)
@@ -48,6 +49,38 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## EnBW mobility+
+[EnBW mobility+](https://apps.apple.com/fr/app/enbw-mobility/id1232210521?l=en) is the smart all-in-one solution for your eMobility. Our Electric Vehicle (EV) copilot allows you to easily find charging stations and charge your EV via App, charging card or AutoCharge with a very simple payment process. Our interactive map makes it easy for you to find free charging stations for electric cars in your area. With Apple CarPlay, the app can be easily connected to the display in your car. 
+
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Swift Package Manager, Azure DevOps, REST API, Dark Mode, PromiseKit, Lokalise, Fakery, Firebase, Lottie, Nimble, Unit Tests, SwiftLint, Figma, 
+
+<p align="center">
+<img src="images/casamea.png" width="900" title="Casa Mea">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * Developed in UIKit with MVP design pattern
+  * New flows implemented in SwiftUI with MVVM design patern
+  * Swift Package Manager for managing the distribution of code
+  * Azure DevOps for automated builds, testing and release
+  * REST API alongside Postman
+  * Dark Mode option for low-light environments
+  * PromiseKit for asynchronous code execution
+  * Lokalise for multiple dynamic languages
+  * Fakery generating mock data for unit tests
+  * Firebase for Crashlytics, Analytics and Dynamic Links
+  * Lottie for native rendering of high-quality animations
+  * Nimble for expecting outcomes
+  * Unit Tests for Domain and API layer
+  * SwiftLint to enforce style and conventions for code formatting
+  * Figma for wireframes and visual design
+
+</details>
+<br>
 <br>
 
 ## Casa Mea
@@ -87,8 +120,8 @@ My latest projects
   
   * Developed in UIKit with MVP design pattern
   * New flows implemented in SwiftUI with MVVM design patern
-  * Localization for multiple dynamic languages
   * Swift Package Manager for managing the distribution of code
+  * Localization for multiple dynamic languages
   * Service-Oriented architecture
   * REST API alongside Insomnia
   * Networking Layer using Alamofire
