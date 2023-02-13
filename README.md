@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [Casa Mea](#casa-mea) 
     - [Smart Mobile](#smart-mobile)
     - [myAsirom](#myAsirom)
     - [Utilio](#utilio)
@@ -47,6 +48,28 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## Casa Mea
+[Casa Mea](https://apps.apple.com/ro/app/casa-mea/id1440617077) is the service offered by BCR for customers of CASA Mea mortgages and BPL advance credit, which allows users to upload documents related to the lending process in an online platform, in order to manage the documents, as well as chat communication and permanent information of users regarding the stage where they are, the next steps and the average time until the loan process ends.
+
+##### 🔨 Technologies Used: UIKit, CLEAN, REST API, Alamofire, SwiftLint, Figma
+
+<p align="center">
+<img src="images/casamea.png" width="900" title="Casa Mea">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * CLEAN architecture design pattern
+  * REST API alongside Postman
+  * Networking Layer using Alamofire
+  * SwiftLint to enforce style and conventions for code formatting
+  * Figma for wireframes and visual design
+    
+</details>
+<br>
 <br>
 
 ## Smart Mobile
@@ -110,7 +133,7 @@ My latest projects
 ## Utilio
 [Utilio](https://omvpetrom.utilio.ro/) is a multi-platform [solution](https://www.romaniajournal.ro/business/new-digital-platform-to-accelerate-growth-in-the-sme-gas-market-through-digital-sales/) dedicated to customers and staff for acquiring natural gas products and managing the account. The application contains a public area from where the possible customers can acquire commodities and additional services and an internal area with account for enrolled customers in order to manage their accounts during collaboration.
 
-##### 🔨 Technologies Used: Swift, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, Zeplin, UnitTest
+##### 🔨 Technologies Used: UIKit, CLEAN, FlowX.AI, Socket.IO, Fastlane, REST API, Alamofire, Firebase, Analytics, Push Notifications, Keychain, SwiftLint, Charts, Lottie, SwiftMessages, Zeplin, UnitTest
 
 <p align="center">
 <img src="images/utilio.png" width="900" title="Utilio">
