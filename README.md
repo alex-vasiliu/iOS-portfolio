@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [John Lewis](#jl)
     - [Mobility+](#mobility) 
     - [Casa Mea](#casa-mea) 
     - [Smart Mobile](#smart-mobile)
@@ -49,6 +50,39 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## John Lewis
+[John Lewis]([https://apps.apple.com/fr/app/enbw-mobility/id1232210521?l=en](https://apps.apple.com/gb/app/john-lewis-partners/id486502369))'s app integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
+
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, Swift Package Manager, Docker, BFF, Vapor, REST API, Modern Concurrrency, Adobe Analytics, Dark Mode, Voice Over, Dynamic Text, Unit Tests, Snapshot tests, SwiftLint, Figma
+
+<p align="center">
+<img src="images/jl.png" width="900" title="John Lewis">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * Developed in UIKit with MVP design pattern
+  * New flows implemented in SwiftUI with MVVM design patern
+  * Coordinator for navigation management
+  * Swift Package Manager for managing the distribution of code
+  * Azure DevOps for automated builds, testing and release
+  * REST API alongside Postman
+  * Dark Mode option for low-light environments
+  * PromiseKit for asynchronous code execution
+  * Lokalise for multiple dynamic languages
+  * Fakery generating mock data for unit tests
+  * Firebase for Crashlytics, Analytics and Dynamic Links
+  * Lottie for native rendering of high-quality animations
+  * Nimble for expecting outcomes
+  * Unit Tests for Domain and API layer
+  * SwiftLint to enforce style and conventions for code formatting
+  * Figma for wireframes and visual design
+
+</details>
+<br>
 <br>
 
 ## Mobility+
