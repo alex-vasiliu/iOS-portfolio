@@ -53,9 +53,9 @@ My latest projects
 <br>
 
 ## John Lewis
-[John Lewis](https://apps.apple.com/gb/app/john-lewis-partners/id486502369)'s app integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
+[John Lewis](https://apps.apple.com/gb/app/john-lewis-partners/id486502369) integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
 
-##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, Swift Package Manager, Docker, BFF, Vapor, REST API, Modern Concurrrency, Adobe Analytics, Dark Mode, Voice Over, Dynamic Text, Unit Tests, Snapshot tests, SwiftLint, Figma
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, Swift Package Manager, Jira, Confluence, Docker, BFF, Vapor, Bitrise, Elastic, Modern Concurrrency, Adobe Analytics, A/B tests, Feature Flags, Dark Mode, Voice Over, Dynamic Text, Unit Tests, Snapshot tests, SwiftLint, Figma
 
 <p align="center">
 <img src="images/jl.png" width="900" title="John Lewis">
@@ -66,18 +66,26 @@ My latest projects
   
   * Developed in UIKit with MVP design pattern
   * New flows implemented in SwiftUI with MVVM design patern
-  * Coordinator for navigation management
+  * Coordinator for navigation management and decoupled component interactions
   * Swift Package Manager for managing the distribution of code
-  * Azure DevOps for automated builds, testing and release
+  * Jira for bug tracking, issue tracking and project management
+  * Confluence for knowledge sharing
+  * Docker encapsulating application environment
+  * BFF for specific user interface FE
+  * Vapor handling robust and scalable BE services
+  * Bitrise for CI/CD streamlining workflows
+  * Elastic for data analysis and visualisation through logging services
+  * Modern Concurrency for asynchronus code execution
+  * Adobe Analytics to measure performance and optimize marketing strategies
+  * A/B tests to evaluate variations in UX optimizing user engagement
+  * Feature flags for phased rollouts and safe testing environments
   * REST API alongside Postman
-  * Dark Mode option for low-light environments
-  * PromiseKit for asynchronous code execution
-  * Lokalise for multiple dynamic languages
-  * Fakery generating mock data for unit tests
-  * Firebase for Crashlytics, Analytics and Dynamic Links
-  * Lottie for native rendering of high-quality animations
-  * Nimble for expecting outcomes
+  * Dark Mode option for low-light environments, enhancing visual ergonomics
+  * Voice Over for users with visual impairments
+  * Dynamic Text to accomodate user preferences for readability
+  * Firebase for Crashlytics and Dynamic Links
   * Unit Tests for Domain and API layer
+  * Snapshot tests to ensure visual elements rendering
   * SwiftLint to enforce style and conventions for code formatting
   * Figma for wireframes and visual design
 
