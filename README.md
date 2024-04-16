@@ -24,7 +24,7 @@ My latest projects
 <br><br>
 
 - Software
-    - [John Lewis](#jl)
+    - [John Lewis](#john-lewis)
     - [Mobility+](#mobility) 
     - [Casa Mea](#casa-mea) 
     - [Smart Mobile](#smart-mobile)
@@ -53,7 +53,7 @@ My latest projects
 <br>
 
 ## John Lewis
-[John Lewis]([https://apps.apple.com/fr/app/enbw-mobility/id1232210521?l=en](https://apps.apple.com/gb/app/john-lewis-partners/id486502369))'s app integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
+[John Lewis](https://apps.apple.com/gb/app/john-lewis-partners/id486502369)'s app integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
 
 ##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, Swift Package Manager, Docker, BFF, Vapor, REST API, Modern Concurrrency, Adobe Analytics, Dark Mode, Voice Over, Dynamic Text, Unit Tests, Snapshot tests, SwiftLint, Figma
 
