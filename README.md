@@ -38,6 +38,7 @@ My latest projects
     - [AllDelicious & SoDelicious](#alldelicious--sodelicious)
     - [Adblock](#adblock)
 - Games
+    - [Galaxy Rush](#galaxy-rush)
     - [Squares](#squares)
     - [Shapes](#shapes)
     - [Inno's Adventures](#innos-adventures)
@@ -423,6 +424,28 @@ My latest projects
   
   * Interrogate, Update database with SQLite
   * Custom Views
+  
+</details>
+<br>
+<br>
+
+## Galaxy Rush
+[Galaxy Rush](https://apps.apple.com/ro/app/galaxy-rush/id1526257886) presents an enthralling gaming experience where players tap to reverse the movement of an astronaut. Navigate through space-themed barriers and strive to accumulate points. Cosmic currencies appear infrequently yet are crucial for unlocking distinctive skins and settings. Precision in timing is key — react swiftly, but judiciously! While the gameplay may seem simple at first, the difficulty escalates with each new obstacle encountered. Test your skills and see how long you can last in this captivating space adventure!
+
+##### 🔨 Technologies Used: Swift, SpriteKit, Lottie
+
+<p align="center">
+<img src="images/galaxyrush" width="900" title="Galaxy Rush">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * SpriteKit framework with Decorator design pattern
+  * Calendar algorithm for Daily Rewards
+  * Fluid animations and transitions with SKAction
+  * Compatibility for all current and upcoming devices
+  * Lottie for native rendering of high-quality animations
   
 </details>
 <br>
