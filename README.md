@@ -435,7 +435,7 @@ My latest projects
 ##### 🔨 Technologies Used: Swift, SpriteKit, Lottie
 
 <p align="center">
-<img src="images/galaxyrush" width="900" title="Galaxy Rush">
+<img src="images/galaxyrush.png" width="900" title="Galaxy Rush">
 </p>
 
 <details>
