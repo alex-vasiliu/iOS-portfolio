@@ -54,12 +54,12 @@ My latest projects
 <br>
 
 ## eGA
-[eGA](https://www.ega.de) integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
+[eGA](https://www.ega.de) eGApowered by Techniker Krankenkasse (TK), integrates the ePatient record (ePA) within the TK app, enabling secure management of personal health data on both Android and iOS. Users can access features such as vaccination tracking, medication schedules, and preventive care advice, all with robust security measures including digital identity verification. eGA simplifies communication with healthcare providers and empowers users to take control of their health. Experience enhanced healthcare management with eGA.
 
 ##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, SPM, Jira, Confluence, Docker, BFF, Vapor, Bitrise, Modern Concurrrency, Adobe Analytics, A/B tests, Feature Flags, Voice Over, Dynamic Text, Unit Tests, Snapshot tests
 
 <p align="center">
-<img src="images/jl.png" width="900" title="John Lewis">
+<img src="images/ega.png" width="900" title="eGA">
 </p>
 
 <details>
