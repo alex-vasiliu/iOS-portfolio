@@ -24,6 +24,7 @@ My latest projects
 <br><br>
 
 - Software
+    - [eGA](#eGA)
     - [John Lewis](#john-lewis)
     - [Mobility+](#mobility) 
     - [Casa Mea](#casa-mea) 
@@ -50,6 +51,47 @@ My latest projects
     - [Square Dash](#square-dash)
     - [Circle Dash](#circle-dash)
     
+<br>
+
+## eGA
+[eGA](https://www.ega.de) integrates cutting-edge technology, offering a seamless shopping experience with over 300,000 products. Features include Augmented Reality (AR) for product visualization, personalized digital membership benefits, and push notifications for promotions. It supports digital receipts, barcode scanning for instant product details, and real-time stock checks. Compliant with rigorous privacy standards, the app secures your data while offering a seamless user experience.
+
+##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, SPM, Jira, Confluence, Docker, BFF, Vapor, Bitrise, Modern Concurrrency, Adobe Analytics, A/B tests, Feature Flags, Voice Over, Dynamic Text, Unit Tests, Snapshot tests
+
+<p align="center">
+<img src="images/jl.png" width="900" title="John Lewis">
+</p>
+
+<details>
+  <summary><b>More details about technologies used</b></summary>
+  
+  * Developed in UIKit with MVP design pattern
+  * New flows implemented in SwiftUI with MVVM design patern
+  * Coordinator for navigation management and decoupled component interactions
+  * Swift Package Manager for managing the distribution of code
+  * Jira for bug tracking, issue tracking and project management
+  * Confluence for knowledge sharing
+  * Docker encapsulating application environment
+  * BFF for specific user interface FE
+  * Vapor handling robust and scalable BE services
+  * Bitrise for CI/CD streamlining workflows
+  * Elastic for data analysis and visualisation through logging services
+  * Modern Concurrency for asynchronus code execution
+  * Adobe Analytics to measure performance and optimize marketing strategies
+  * A/B tests to evaluate variations in UX optimizing user engagement
+  * Feature flags for phased rollouts and safe testing environments
+  * REST API alongside Postman
+  * Dark Mode option for low-light environments, enhancing visual ergonomics
+  * Voice Over for users with visual impairments
+  * Dynamic Text to accomodate user preferences for readability
+  * Firebase for Crashlytics and Dynamic Links
+  * Unit Tests for Domain and API layer
+  * Snapshot tests to ensure visual elements rendering
+  * SwiftLint to enforce style and conventions for code formatting
+  * Figma for wireframes and visual design
+
+</details>
+<br>
 <br>
 
 ## John Lewis
