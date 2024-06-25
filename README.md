@@ -56,7 +56,7 @@ My latest projects
 ## eGA
 [eGA](https://www.ega.de) powered by Techniker Krankenkasse (TK), integrates the ePatient record (ePA) within the TK app, enabling secure management of personal health data on both Android and iOS. Users can access features such as vaccination tracking, medication schedules, and preventive care advice, all with robust security measures including digital identity verification. eGA simplifies communication with healthcare providers and empowers users to take control of their health. Experience enhanced healthcare management with eGA.
 
-##### 🔨 Technologies Used: UIKit - MVP, SwiftUI - MVVM, Coordinator, SPM, Jira, Confluence, Docker, BFF, Vapor, Bitrise, Modern Concurrrency, Adobe Analytics, A/B tests, Feature Flags, Voice Over, Dynamic Text, Unit Tests, Snapshot tests
+##### 🔨 Technologies Used: UIKit & SwiftUI - MVVM, Coordinator, CocoaPods, Frameworks, Jira, Confluence, Modern Concurrrency, Promise, Combine, Feature Flags, Voice Over, Dynamic Text, Unit Tests, Snapshot tests, SwiftFormat, SonarQube
 
 <p align="center">
 <img src="images/ega.png" width="900" title="eGA">
@@ -65,29 +65,25 @@ My latest projects
 <details>
   <summary><b>More details about technologies used</b></summary>
   
-  * Developed in UIKit with MVP design pattern
+  * Developed in UIKit with MVVM design pattern
   * New flows implemented in SwiftUI with MVVM design patern
   * Coordinator for navigation management and decoupled component interactions
-  * Swift Package Manager for managing the distribution of code
+  * CocoaPods for managing the distribution of code
+  * Frameworks to streamline development with architectures and reusable components
   * Jira for bug tracking, issue tracking and project management
   * Confluence for knowledge sharing
-  * Docker encapsulating application environment
-  * BFF for specific user interface FE
-  * Vapor handling robust and scalable BE services
-  * Bitrise for CI/CD streamlining workflows
-  * Elastic for data analysis and visualisation through logging services
+  * PromiseKit for acilitating asynchronous programming with clean, chainable promises
+  * Combinefor processing values over time and reactive programming
   * Modern Concurrency for asynchronus code execution
-  * Adobe Analytics to measure performance and optimize marketing strategies
-  * A/B tests to evaluate variations in UX optimizing user engagement
   * Feature flags for phased rollouts and safe testing environments
-  * REST API alongside Postman
   * Dark Mode option for low-light environments, enhancing visual ergonomics
   * Voice Over for users with visual impairments
   * Dynamic Text to accomodate user preferences for readability
-  * Firebase for Crashlytics and Dynamic Links
   * Unit Tests for Domain and API layer
   * Snapshot tests to ensure visual elements rendering
   * SwiftLint to enforce style and conventions for code formatting
+  * SwiftFormat for code for consistency and adherence to style guidelines
+  * SonarQube for analyzing and monitoring code quality, identifying bugs and security vulnerabilities
   * Figma for wireframes and visual design
 
 </details>
