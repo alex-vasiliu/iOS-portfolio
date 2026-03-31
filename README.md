@@ -56,7 +56,7 @@ My latest projects
 <br>
 
 ## Reading Journey
-[Reading Journey]([https://www.ega.de](https://apps.apple.com/us/app/reading-journey-book-tracker/id6749302195)) is a comprehensive book tracking and reading management app. Users can scan physical book covers with the camera to extract the title, author, and ISBN instantly. The app lets you log reading sessions, track progress toward reading goals, write journal entries with reactions and notes, and organise books into custom collections. An import flow ingests entire Goodreads or Storygraph libraries, and rich visual statistics surface monthly reading pace, cumulative page counts, and reading-location history.
+[Reading Journey](https://apps.apple.com/us/app/reading-journey-book-tracker/id6749302195) is a comprehensive book tracking and reading management app. Users can scan physical book covers with the camera to extract the title, author, and ISBN instantly. The app lets you log reading sessions, track progress toward reading goals, write journal entries with reactions and notes, and organise books into custom collections. An import flow ingests entire Goodreads or Storygraph libraries, and rich visual statistics surface monthly reading pace, cumulative page counts, and reading-location history.
 
 ##### 🔨 Technologies Used: SwiftUI - MVVM, Coordinator, GRDB, Vision Framework, SPM, Gemini AI, Google Books API, Lottie
 
