@@ -56,9 +56,9 @@ My latest projects
 <br>
 
 ## Reading Journey
-Reading Journey is a comprehensive book tracking and reading management app. Users can scan physical book covers with the camera — AI (Google Gemini) extracts the title, author, and ISBN instantly. The app lets you log reading sessions, track progress toward reading goals, write journal entries with reactions and notes, and organise books into custom collections. An import flow ingests entire Goodreads or Storygraph libraries via CSV, and rich visual statistics surface monthly reading pace, cumulative page counts, and reading-location history. Premium features are unlocked via a subscription.
+[Reading Journey]([https://www.ega.de](https://apps.apple.com/us/app/reading-journey-book-tracker/id6749302195)) is a comprehensive book tracking and reading management app. Users can scan physical book covers with the camera to extract the title, author, and ISBN instantly. The app lets you log reading sessions, track progress toward reading goals, write journal entries with reactions and notes, and organise books into custom collections. An import flow ingests entire Goodreads or Storygraph libraries, and rich visual statistics surface monthly reading pace, cumulative page counts, and reading-location history.
 
-##### 🔨 Technologies Used: SwiftUI - MVVM, Coordinator, GRDB, Vision Framework, AVFoundation, CoreLocation, SPM, RevenueCat, AmplitudeSwift, Kingfisher, Cloudflare Workers, Gemini AI, ISBNDB, Google Books API, ZIPFoundation, Lottie
+##### 🔨 Technologies Used: SwiftUI - MVVM, Coordinator, GRDB, Vision Framework, SPM, Gemini AI, Google Books API, Lottie
 
 <p align="center">
 <img src="images/readingjourney.png" width="900" title="Reading Journey">
@@ -68,9 +68,8 @@ Reading Journey is a comprehensive book tracking and reading management app. Use
   <summary><b>More details about technologies used</b></summary>
 
   * SwiftUI with MVVM design pattern
-  * Coordinator pattern for hierarchical navigation management (AppCoordinator, HomeCoordinator, CollectionsCoordinator, InsightsCoordinator, SettingsCoordinator)
-  * Generic FlowState<T> supporting push, present and root navigation transitions
-  * GRDB (SQLite ORM) for offline-first data persistence with migrations and reactive @Query property wrapper
+  * Coordinator pattern for hierarchical navigation management
+  * GRDB for offline-first data persistence with migrations and reactive property wrapper
   * Vision Framework for real-time document edge detection and OCR text recognition from book covers
   * AVFoundation for live camera capture, photo output and flash control
   * CoreImage for image processing and perspective correction
@@ -79,7 +78,7 @@ Reading Journey is a comprehensive book tracking and reading management app. Use
   * RevenueCat for subscription and in-app purchase management with paywall UI
   * AmplitudeSwift for analytics and event tracking via a consumer-based multi-destination pipeline
   * Kingfisher for async image loading and caching of book covers
-  * Cloudflare Workers serverless backend with Durable Objects for session state machines (scan, search, import)
+  * Cloudflare Workers serverless backend for session state machines (scan, search, import)
   * Google Gemini API for AI-powered ISBN, title and author extraction from cover images
   * ISBNDB and Google Books API as primary and fallback book metadata sources
   * DeviceCheck for device attestation and API security token generation
